@@ -2,6 +2,10 @@
 
 Automatisation du déploiement d'une instance Wazuh all-in-one sur AWS via Terraform et Ansible, avec un pipeline CI/CD GitHub Actions.
 
+## Topologie
+
+<img src="topologie.png" width="700" alt="Topologie">
+
 ## Architecture
 
 ```
